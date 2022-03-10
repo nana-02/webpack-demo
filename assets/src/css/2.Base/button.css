@@ -1,0 +1,5 @@
+@import '../0.Variables/font.css';
+
+.button {
+    background-color: $hoge;
+}

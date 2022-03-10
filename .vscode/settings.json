@@ -1,0 +1,5 @@
+{
+    "stylelint.stylelintPath": "node_modules/stylelint",
+    "stylelint.validate": [ "css", "scss", "postcss" ],
+    "editor.codeActionsOnSave": { "source.fixAll.stylelint": true },
+}
